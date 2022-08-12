@@ -1,3 +1,1 @@
 # training
-hi jose
-
